@@ -1,7 +1,6 @@
 # Comparing a Neural Network and a Graph Neural Network for Predicting PFAS Bioactivity
 
 **Author:** Wilson Schwegler  
-**Advisor:** Justin Li, Department Chair, Computer Science, Occidental College  
 **Affiliation:** Occidental College (Senior Comprehensive Project)  
 **Paper:** *Comparing a Neural Network and a Graph Neural Network for Predicting PFAS Bioactivity*
 
