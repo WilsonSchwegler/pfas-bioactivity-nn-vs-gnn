@@ -63,4 +63,12 @@ Overall, the results indicate that neither model is universally superior; instea
 ---
 
 ## Repository Structure
+Comps_Paper.pdf Full paper describing methodology, experiments, and results
+data_set_gen_v2.py Dataset generation and preprocessing for GNN inputs
+NN.py Neural Network training and evaluation
+GNN.py Graph Neural Network architecture
+GNN_Eval.py GNN checkpoint loading and evaluation
+f1.py F-β score computation and aggregation
+pca.py PCA analysis and visualization of molecular fingerprints
+es9b04833_si_003.xlsx Source PFAS bioassay dataset
 
